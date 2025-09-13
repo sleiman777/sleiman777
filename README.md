@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ewe&show_icons=true&count_private=true)
+
+
 <!--
 **sleiman777/sleiman777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
